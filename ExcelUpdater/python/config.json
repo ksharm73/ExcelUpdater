@@ -1,0 +1,12 @@
+{
+  "filePath": "\\\\fileserver\\share\\finance\\Model.xlsx",
+  "backupFolder": "\\\\fileserver\\share\\finance\\backup",
+  "backupRetentionDays": 30,
+  "lockRetryCount": 6,
+  "lockRetryDelaySeconds": 10,
+  "updates": [
+    { "sheet": "Inputs", "cell": "B2", "type": "number", "value": "1250.75" },
+    { "sheet": "Inputs", "cell": "B3", "type": "date",   "value": "{today}" },
+    { "sheet": "Inputs", "cell": "B4", "type": "string", "value": "Approved" }
+  ]
+}
